@@ -63,6 +63,10 @@ I've advised a [dozen startups](https://stevenhatzakis.com/portfolio-2/) and hav
 
 ### Art and Other Hobbies
 
-I'm also passionate about Art, including digital art and using Math when creating various Artwork, and my paintings have sold in NY art galleries and to private collectors. 
+I'm also passionate about Art, including digital art and using Math when creating various Artwork, and [my paintings](https://shatzakis.wordpress.com/2016/02/26/art-portfolio/) have sold in NY art galleries and to private collectors. 
+
+> Example of a perfectly-symmetric design I created by hand using math, where nine distinct shapes are color-coded and repeat exactly four times in different rotation (inpsired by large palindromes):
+
+<img width="372" alt="Steven-Hatzakis-Symmetric-Art-Design" src="https://user-images.githubusercontent.com/5213035/62005200-a9977280-b0fd-11e9-81c7-bb14fba2d48b.png">
 
 When not behind a computer I enjoy watersports including freediving and spearfishing, as well as hiking, camping, and travel. 
