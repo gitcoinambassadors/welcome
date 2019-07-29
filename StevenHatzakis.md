@@ -15,7 +15,7 @@ I first wrote about cryptocurrencies in 2013 (about arbitrage and market ineffic
 Just a few year's ago I started to experiment with computer programming and it developed into an exciting adventure.
 
 I'm passionate about building applications that empower users to be more self-reliant and take control of their own cybersecurity, including the use of cryptography and cryptocurrencies. 
-Areas of interest include low-level code (machine readable binary, dealing with bytes, etc..), compression alogirthms, notataion schemes, encryption algorithms, hash functions and new innovations in cryptography applicable to consumers and commerce.
+Areas of interest include low-level code (machine readable binary, dealing with bytes, etc..), compression alogrithms, notataion schemes, encryption algorithms, hash functions and new innovations in cryptography applicable to consumers and commerce.
 
 > Example recent map I designed of distinct XOR equations for all 4-bit binary numbers:
 <img width="954" alt="Map_of_4bit-XOR-by-StevenHatzakis" src="https://user-images.githubusercontent.com/5213035/62004693-435b2180-b0f6-11e9-9179-0562c402d2fa.png">
@@ -53,7 +53,7 @@ Areas of interest include low-level code (machine readable binary, dealing with 
 ### Contributions and Creations
 
 I am a contributor on Github to the [Worldwide Web Consortium (W3C) Cryptography API](https://github.com/w3c/webcrypto/graphs/contributors), and to advanced functions found in [Ian Coleman's BIP39 Mnemmonic Tool](https://github.com/iancoleman/bip39/graphs/contributors), anda few other repositories. 
-I'm the inventor of [Palindromic Mnemonics (Reversible Recovery Phrases)](https://bcaventures.com/reversible-mnemonic.html) that are BIP39-compliant in terms of checksum. I've also developed a notation scheme called Hatnotation, during a Gitcoin Hackathon.  I program primarily in Python and have some experience with Javascript, and have compilted programs in C++ as well as Java.
+I'm the inventor of [Palindromic Mnemonics (Reversible Recovery Phrases)](https://bcaventures.com/reversible-mnemonic.html) that are BIP39-compliant in terms of checksum. I've also developed a notation scheme called Hatnotation, during a Gitcoin Hackathon.  I program primarily in Python and have some experience with Javascript, and have compiled programs in C++ as well as Java.
 
 I lead the Blockchain Expert Committee (BEC) for [BlockchainAssociation.io](https://blockchainassociation.io/), an alternative dispute resolution organization that is member-based and backed by FinancialCommission.org.
 
@@ -63,10 +63,10 @@ I've advised a [dozen startups](https://stevenhatzakis.com/portfolio-2/) and hav
 
 ### Art and Other Hobbies
 
-I'm also passionate about Art, including digital art and using Math when creating various Artwork, and [my paintings](https://shatzakis.wordpress.com/2016/02/26/art-portfolio/) have sold in NY art galleries and to private collectors. 
+I'm also passionate about Art, including digital art and using math when creating various Artwork, and [my paintings](https://shatzakis.wordpress.com/2016/02/26/art-portfolio/) have sold in NY art galleries and to private collectors. 
 
 > Example of a perfectly-symmetric design I created by hand using math, where nine distinct shapes are color-coded and repeat exactly four times in different rotation (inpsired by large palindromes):
 
 <img width="372" alt="Steven-Hatzakis-Symmetric-Art-Design" src="https://user-images.githubusercontent.com/5213035/62005200-a9977280-b0fd-11e9-81c7-bb14fba2d48b.png">
 
-When not behind a computer I enjoy watersports including freediving and spearfishing, as well as hiking, camping, and travel. 
+When not behind a computer, I enjoy watersports including freediving and spearfishing, as well as hiking, camping, travel, and playing chess. 
